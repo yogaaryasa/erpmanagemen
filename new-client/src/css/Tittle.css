@@ -1,0 +1,10 @@
+#tittle-home {
+    text-align: center;
+    padding: 15px;
+    background-color: #000000;
+    color: #eeeeee;
+}
+
+#tittle-home h1{
+    margin:0px  !important;
+}
